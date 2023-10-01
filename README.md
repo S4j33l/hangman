@@ -1,2 +1,2 @@
 # hangman
-<p>This is just a simple implementation of a console based hangman game</p>
+<p>Console based hangman game. Special thanks to Abdurrehman for helping me with this</p>
